@@ -20,7 +20,7 @@ export default function Navbar() {
           {/* Premium Logo */}
           <div className="flex-shrink-0">
             <Link href="/" className="flex items-center group">
-              <div className="flex items-center gap-1">
+              <div className="flex items-center gap-10">
                 <span className="text-lg md:text-xl font-black text-white group-hover:text-gray-100 transition-colors duration-200 drop-shadow-lg">
                   CODE
                 </span>
